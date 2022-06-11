@@ -21,9 +21,6 @@
 
 - ⚡ Fun fact **I love coding**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rayen lakhal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rayen lakhal" /></a></p><br><br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7F7F7&lines=%E2%98%8E%EF%B8%8F+Connect+with+me%3A)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://twitter.com/@rayenlakhal3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rayenlakhal3" height="30" width="40" /></a>
