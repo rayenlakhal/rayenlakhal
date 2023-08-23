@@ -11,11 +11,11 @@
 
 - 👨 My profile site web [Rayen lakhal profile](https://rayenlakhal.github.io/)
 
-- 🌱 I’m currently learning **Linux / Ubuntu**
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at [rayenlakhal.github.io](rayenlakhal.github.io)
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **HTML & CSS & JS & C++**
 
 - 📫 How to reach me **rayenlakhal789@gmail.com**
 
