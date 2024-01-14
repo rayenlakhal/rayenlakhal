@@ -11,7 +11,7 @@
 
 - 👨 My profile site web [Rayen lakhal profile](https://rayenlakhal.github.io/)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [rayenlakhal.github.io](rayenlakhal.github.io)
 
